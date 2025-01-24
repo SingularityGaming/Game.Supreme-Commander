@@ -8,6 +8,9 @@ sch: [select all units](https://www.google.com/search?q=command+and+conquer+gene
 
 https://strategywiki.org/wiki/Command_%26_Conquer:_Generals/Controls
 
->Q  all units
->A  air units
->W  
+>Single tap: on screen
+>Double tap: Whole map
+
+>- Q  all units  
+>- A  air units  
+>- W  of the same type
