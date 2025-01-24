@@ -12,4 +12,4 @@ https://strategywiki.org/wiki/Command_%26_Conquer:_Generals/Controls
 >Double tap: Whole map
 >- Q  all units  
 >- A  air units  
->- W  of the same type
+>- E  of the same type
